@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Reports
+reports/
+
+# CSV Data (optional if dynamic)
+data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
